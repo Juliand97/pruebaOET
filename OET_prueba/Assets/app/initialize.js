@@ -1,0 +1,1 @@
+window.open('view/register.php');
